@@ -2,9 +2,12 @@ Presentation:
 
 Project Background / Client Requirements
 business:
+
 • wants to maintain a collection of products and couriers.
+
 • When a customer makes a new order, it needs to create this on the
 system.
+
 • I need to be able to update the status of an order i.e: preparing,
 out-for-delivery, delivered.
 
